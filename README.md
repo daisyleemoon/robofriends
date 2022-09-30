@@ -1,5 +1,5 @@
 # Robofriends from The Complete Web Developer in 2022: Zero to Mastery
-# Clarifai Facial Recognition API Integration
+## Clarifai Facial Recognition API Integration
 
 #### URL
 
